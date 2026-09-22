@@ -1,0 +1,9 @@
+# Archivos de configuración con credenciales
+.env
+config/database.php
+
+# Dependencias (si usas Composer)
+/vendor/
+
+# Archivos del sistema
+.DS_Store
